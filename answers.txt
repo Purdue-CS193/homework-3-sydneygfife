@@ -3,6 +3,8 @@ This is me typing from GitHub!
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+git fetch tells you what changes have been made to the master branch which then allows you to know 
+whether your local respository is up to date or not using git status.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
