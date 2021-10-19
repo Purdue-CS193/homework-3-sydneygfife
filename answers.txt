@@ -8,4 +8,6 @@ whether your local respository is up to date or not using git status.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-GitHub is a hosting serive for Git repositories whereas Git is a tool used to mangage a local repositoryand collaborate with the main repository through add, commit, push and branches.
+GitHub is a hosting serive for Git repositories whereas Git is a tool used to mangage 
+a local repositoryand collaborate with the main repository through add, commit, push 
+and branches.
